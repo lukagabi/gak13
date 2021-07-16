@@ -1,4 +1,4 @@
-/* 1*/
+/*1*/
 let number = randomNumbers();
 function oddOrEven (number){
     if (number % 2 == 0){
